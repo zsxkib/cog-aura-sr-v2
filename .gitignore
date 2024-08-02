@@ -1,3 +1,11 @@
+# Replicate
+/checkpoints/
+.github
+.cog
+output.png
+output.webp
+output.jpeg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
